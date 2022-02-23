@@ -1,7 +1,9 @@
 # guess_the_number
 You have to build a "Number Guessing Game," in which a winning number is set to some integer value. 
 The Program should take input from the user, and if the entered number is less than the winning number, a message should display that the number is smaller and vice versa.
+
 Instructions:
+
 1. You are free to use anything we've studied till now.
 2. The number of guesses should be limited, i.e (5 or 9).
 3. Print the number of guesses left.
