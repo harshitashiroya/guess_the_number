@@ -13,6 +13,5 @@ Instructions:
 REFERENCE:
 
 https://www.youtube.com/watch?v=2loUi5KxZ3E&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME&index=21
-
 https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-27
 
